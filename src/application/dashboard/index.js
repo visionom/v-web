@@ -12,7 +12,7 @@ import Home from './Home'
  */
 
 let config = {
-  appid: 'resman',
+  appid: 'Dashboard',
   menuName: 'Dashboard',
   menuIcon: 'mdi-view-dashboard',
   apiBasePath: '/api/resman/v1'
